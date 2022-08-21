@@ -1,0 +1,47 @@
+/*header*/
+
+.header{
+    margin: auto;
+    text-align: center;
+}
+
+.header>a:link{
+    color: rgb(138, 93, 35);
+    font-size: 16px;
+   text-decoration: none;
+}
+.header>a:visited{
+    color: rgb(138, 93, 35);
+    font-size: 16px;
+   text-decoration: none;
+}
+
+.header>a:hover{
+    color: burlywood;
+    font-size: 20px;
+    text-decoration:none;
+  
+}
+
+/*Div*/
+
+.lorem>p{
+    margin-right: 80px;
+  color:darkgoldenrod;
+  font-family: Georgia, serif;
+}
+.lorem>h1{
+    margin-left:30px;
+   color:rgb(138, 93, 35) ;
+   font-family: "Gill Sans", sans-serif;
+}
+
+
+/*image*/
+
+.image{
+    margin: auto;
+    text-align: center;
+    height: 300px;
+    
+}
